@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+👉 [Click here to try it live](https://password-analyzer-6rmx.onrender.com)
+
 # 🔐 Password Strength Analyzer
 
 A full-stack localhost tool to analyze, generate, and manage passwords securely.
