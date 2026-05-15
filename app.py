@@ -238,4 +238,4 @@ if __name__ == "__main__":
     init_db()
     os.makedirs("templates", exist_ok=True)
     print("\n✅  Password Strength Analyzer running at http://localhost:5000\n")
-    app.run(debug=True, port=5000)
+    app.run(host="0.0.0.0", port=10000, debug=False)
